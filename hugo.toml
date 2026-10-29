@@ -1,4 +1,4 @@
-baseURL = "https://luzhnovdv.github.io/blog/"
+baseURL = "https://luzhnovdv.github.io/"
 languageCode = "ru-ru"
 title = "Blog"
 theme = "terminal"
