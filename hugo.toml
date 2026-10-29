@@ -1,0 +1,23 @@
+baseURL = "https://USERNAME.github.io/"
+languageCode = "ru-ru"
+title = "Blog"
+theme = "terminal"
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 5
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = true
+  autoCover = true
+  showLastUpdated = true
+
+[markup.highlight]
+  noClasses = false
+
+[caches]
+  [caches.images]
+    dir = ":cacheDir/images"
